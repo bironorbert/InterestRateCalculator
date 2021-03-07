@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InterestRateCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "500000 120"
+    }
+  }
+}
